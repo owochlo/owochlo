@@ -1,5 +1,4 @@
-hi! im chloe ~
+hey i'm chloe - i like network eng, kali, and ctf
 
-im a soph at ahs ('23) 
+java, py, a bit of js and websploit
 
-apcs? ig
